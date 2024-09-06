@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NIKHIL1234GD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @NIKHIL1234GD student Of BCA
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning React.js ⚛️
+- 💞️ I’m looking to collaborate on community of {Ethical} Hackers
+- 📫 How to reach me @n.i.k._.__
 
 <!---
 NIKHIL1234GD/NIKHIL1234GD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
